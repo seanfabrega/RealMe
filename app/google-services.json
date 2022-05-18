@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "311741785866",
+    "project_id": "realme-bad0b",
+    "storage_bucket": "realme-bad0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311741785866:android:19fda4614fd79f82acfcf3",
+        "android_client_info": {
+          "package_name": "hu.ait.realme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311741785866-opchjked5ejq42fni22h4rqdvlmqk8au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaz_prmqHcAkhgFobWmK5jTxoRKw_VuKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311741785866-opchjked5ejq42fni22h4rqdvlmqk8au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
